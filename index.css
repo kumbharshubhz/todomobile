@@ -1,0 +1,53 @@
+.body{
+    margin: 250px;
+    text-align: center;
+  
+}
+.container{
+    margin-left: 500px;
+    margin-top: 100px;
+    padding:5px;
+    height: 70vh;
+    width: 20vw; 
+    display: flexbox;
+    border: 1px solid palevioletred;
+    text-align: center;
+   
+
+}
+.h1{
+    padding-left: 10px;
+    font-size: 35px;
+    text-align: center;
+    text-decoration: solid;
+    color:black;
+    margin-bottom: 20px;
+    
+}
+.h2{
+    padding-left: 10px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.box{
+    font-size: 15px;
+    height: 5vh;
+    width: 15vw;
+    border: 2px solid brown;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 5px 0px 0px 0px;
+    margin: 10px;
+    display: inline-block;
+    display: flexbox;
+    border-radius: 5px;
+    box-shadow: 3px 3px gray;
+   
+}
+.plus{ text-align: start;
+font-size: 40px;
+color:red;
+
+}
